@@ -1,0 +1,15 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+.logo{
+    background: #ff6a00;
+    width: 100%;
+
+}
